@@ -1,4 +1,4 @@
-Student Dropout Prediction using Machine Learnnga Techniques
+Student Dropout Prediction using Machine Learning Techniques
 This project addresses the critical issue of student dropout rates in higher education by developing a machine learning-based predictive model.
 
  Project Overview
